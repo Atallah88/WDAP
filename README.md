@@ -2,10 +2,8 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
-
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>كيف أبدء تعلم البرمجة</title>
 
 <style> 
@@ -61,7 +59,6 @@ line-height: 1.6;
 <li><a href="#conclusion">الخاتمة</a></li>
 </ul>
 
-
 <h2>كيف تبدأ تعلم البرمجة: دليل للمبتدئين</h2>
 
 <hr>
@@ -76,9 +73,7 @@ line-height: 1.6;
    
 <hr>
          
-<p id="resources"><strong>مصادر التعلم:</
-
-strong><br>
+<p id="resources"><strong> مصادر التعلم:</strong><br>
 هناك العديد من المصادر المجانية والمدفوعة لتعلم البرمجة. يمكنك البدء بالمواقع التعليمية مثل Codecademy و Coursera. يمكنك أيضًا مشاهدة دروس على YouTube أو قراءة كتب مثل "Eloquent JavaScript" لتعلم JavaScript.</p>
    
 <hr>
