@@ -4,42 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>كيف أبدء تعلم البرمجة</title>
 
-<style> 
-body {
-font-family: Arial, sans-serif;
-margin: 0;
-padding: 0;
-background-color: #f4f4f4;
-}
-
-header {
-background-color: #333;
-color: #fff;
-padding: 1rem;
-text-align: center;
-}
-.container {
-width: 80%;
-margin: auto;
-overflow: hidden;
-}
-
-.post {
-background-color: #fff;
-margin: 1rem 0;
-padding: 1rem;
-border-radius: 5px;
-}
-.post h2 {
-color: #333;
-}
-.post p {
-line-height: 1.6;
-}
-
-</style>
 </head>
 <body>
 <header>
