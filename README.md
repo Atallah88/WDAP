@@ -6,7 +6,7 @@
 </head>
 <body>
 <header>
-<h1>برمجة وتطوير مواقع الويب</h1>
+<h1 style="text-align:center;">برمجة وتطوير مواقع الويب</h1>
 </header>
 
 <div class="container">
@@ -81,5 +81,3 @@
 <hr> 
 <a href="https://www.instagram.com/?hl=ar" target="_blank">Instagram: @ia_di8</a>
 <hr>
-</body>
-</html>
