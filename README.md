@@ -78,8 +78,7 @@
  </pre>
  
 <hr>
-<hr>
-<p>IG</p>
-<a href="https://www.instagram.com/?hl=ar"></a>
+<hr> 
+<a href="https://www.instagram.com/?hl=ar" target="_blank">Follow My Instagram</a>
 </body>
 </html>
