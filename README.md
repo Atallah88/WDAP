@@ -79,6 +79,6 @@
  
 <hr>
 <hr> 
-<a href="https://www.instagram.com/?hl=ar" target="_blank">Follow My Instagram</a>
+<a href="https://www.instagram.com/?hl=ar" target="_blank">Instagram: @ia_di8</a>
 </body>
 </html>
