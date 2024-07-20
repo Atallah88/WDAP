@@ -1,4 +1,3 @@
-
 <html lang="ar">
 <head>
 <meta charset="UTF-8">
@@ -12,7 +11,7 @@
 
 <div class="container">
 <div class="post">
-
+ 
 <h3>جدول المحتويات</h3>
 <ul>
 <li><a href="#intro">المقدمة</a></li>
@@ -80,6 +79,6 @@
  
 <hr>
 <hr>
-
+<img src="Pic/V.jpg">
 </body>
 </html>
