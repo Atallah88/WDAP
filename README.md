@@ -81,7 +81,5 @@
 <hr>
 <hr>
 
-<p>تابعني على إنستغرام: <a href="https://www.instagram.com/ia_di8" target="_blank">@ia_di8</a></p>
-
 </body>
 </html>
